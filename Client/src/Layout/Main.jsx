@@ -2,6 +2,7 @@
 import Hero from "../Page/Home/Hero/Hero";
 import Mission from "../Page/Home/Mission/Mission";
 import Navbar from "../Page/Home/Navbar/Navbar";
+import Service from "../Page/Home/Service/Service";
 
 
 const Main = () => {
@@ -10,6 +11,7 @@ const Main = () => {
             <Navbar></Navbar>
             <Hero></Hero>
             <Mission></Mission>
+            <Service></Service>
             
         </div>
     );
