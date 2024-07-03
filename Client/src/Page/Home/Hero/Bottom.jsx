@@ -12,7 +12,7 @@ const Bottom = () => {
             <p>Patient satisfaction rate, reflecting our commitment.</p>
           </div>
           <figure>
-            <img src="../../../../public/Group 12.png" alt="Chart" />
+            <img src="https://i.ibb.co/Wg6mYSP/Group-12.png" alt="Chart" />
           </figure>
         </div>
         <div className="card  shadow-xl h-52 self-end bg-[#FFFFF5]">
@@ -22,7 +22,7 @@ const Bottom = () => {
           </div>
           <figure>
             <img
-              src="../../../../public/contract (1) 1.png"
+              src="https://i.ibb.co/g6X6cd9/contract-1-1.png"
               alt="Certificate"
               className="w-24 h-24"
             />
@@ -34,7 +34,7 @@ const Bottom = () => {
             <div className="flex gap-2 items-center">
               <h2 className="card-title text-5xl font-semibold">4.8</h2>
               <img
-                src="../../../../public/fi-sr-star.png"
+                src="https://i.ibb.co/4MQrP8z/fi-sr-star.png"
                 className="w-10 h-10"
                 alt=""
               />
@@ -42,7 +42,7 @@ const Bottom = () => {
             <p>Over 20,000 Patient</p>
           </div>
           <figure>
-            <img src="../../../../public/Group 7.png" alt="Certificate" />
+            <img src="https://i.ibb.co/xjYZ052/Group-7.png" alt="Certificate" />
           </figure>
         </div>
 
@@ -52,7 +52,7 @@ const Bottom = () => {
             <p>Money spend for poor patient</p>
           </div>
           <figure>
-            <img src="../../../../public/Group (1).png" alt="Certificate" />
+            <img src="https://i.ibb.co/0Z0DnG5/Group-1.png" alt="Certificate" />
           </figure>
         </div>
         <div className="card shadow-xl bg-[#FBFBFB]">
@@ -61,7 +61,7 @@ const Bottom = () => {
             <p>Free lession video for patient</p>
           </div>
           <figure>
-            <img src="../../../../public/Group (2).png" alt="Certificate" />
+            <img src="https://i.ibb.co/DVXVgGS/Group-2.png" alt="Certificate" />
           </figure>
         </div>
       </div>

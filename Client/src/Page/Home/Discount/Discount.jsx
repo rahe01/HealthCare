@@ -2,11 +2,11 @@ import { FaArrowUpRightDots } from "react-icons/fa6";
 
 const Discount = () => {
   return (
-  <div className="py-32 bg-[url('../../../../public/Frame.png')]">
+  <div className="py-32 bg-[url('https://i.ibb.co/NSfLrWg/Frame.png')]">
       <div className="relative">
       <img
         className="w-full rounded-3xl"
-        src="../../../../public/Rectangle 32.png"
+        src="https://i.ibb.co/R0zdSvM/Rectangle-32.png"
         alt="Discount"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-[#020043] to-[#0200434D] flex flex-col justify-center rounded-3xl">
@@ -27,7 +27,7 @@ const Discount = () => {
         </div>
 
         <div className="absolute top-16 right-16">
-          <img src="../../../../public/logo light.png" alt="" />
+          <img src="https://i.ibb.co/d43qyWS/logo-light.png" alt="" />
         </div>
       </div>
     </div>

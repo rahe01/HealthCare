@@ -26,7 +26,7 @@ const Service = () => {
       <div className="relative">
         <img
           className="w-full rounded-3xl"
-          src="../../../../public/Rectangle 27-2.png"
+          src="https://i.ibb.co/8x5kDhW/Rectangle-27-2.png"
           alt=""
         />
         <div className="absolute bottom-0 left-0 bg-[#343268] bg-opacity-60 w-80 h-48 rounded-3xl p-5 flex flex-col justify-center text-white m-5">
@@ -40,7 +40,7 @@ const Service = () => {
             </div>
             <div className="items-center absolute right-0 bottom-0">
               <button>
-                <img src="../../../../public/Group 28.png" alt="" />
+                <img src="https://i.ibb.co/7kVhBwk/Group-28.png" alt="" />
               </button>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Service = () => {
       <div className="relative">
         <img
           className="w-full rounded-3xl"
-          src="../../../../public/Rectangle 27-1.png"
+          src="https://i.ibb.co/xsWt4Nc/Rectangle-27-1.png"
           alt=""
         />
         <div className="absolute bottom-0 left-0 bg-[#343268] bg-opacity-60 w-80 h-48 rounded-3xl p-5 flex flex-col justify-center text-white m-5">
@@ -62,7 +62,7 @@ const Service = () => {
             </div>
             <div className="items-center absolute right-0 bottom-0">
               <button>
-                <img src="../../../../public/Group 28.png" alt="" />
+                <img src="https://i.ibb.co/7kVhBwk/Group-28.png" alt="" />
               </button>
             </div>
           </div>
@@ -71,7 +71,7 @@ const Service = () => {
       <div className="relative">
         <img
           className="w-full rounded-3xl"
-          src="../../../../public/Rectangle 27.png"
+          src="https://i.ibb.co/LQfc9tp/Rectangle-27.png"
           alt=""
         />
         <div className="absolute bottom-0 left-0 bg-[#343268] bg-opacity-60 w-80 h-48 rounded-3xl p-5 flex flex-col justify-center text-white m-5">
@@ -84,7 +84,7 @@ const Service = () => {
             </div>
             <div className="items-center absolute right-0 bottom-0">
               <button>
-                <img src="../../../../public/Group 28.png" alt="" />
+                <img src="https://i.ibb.co/7kVhBwk/Group-28.png" alt="" />
               </button>
             </div>
           </div>

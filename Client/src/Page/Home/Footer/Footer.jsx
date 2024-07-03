@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="bg-[#020043]">
       <footer className="footer bg-[#020043] max-w-7xl mx-auto text-white  p-10 ">
         <aside>
-          <img src="../../../../public/logo light.png" alt="" />
+          <img src="https://i.ibb.co/d43qyWS/logo-light.png" alt="" />
           <p>
             123 Main Street Anytown, USA <br />
             Postal Code: 12345

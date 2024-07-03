@@ -35,7 +35,7 @@ const Mission = () => {
 
         {/* image */}
         <div className="flex-1">
-          <img className="w-full" src="../../../../public/Rectangle 24.png" alt="" />
+          <img className="w-full" src="https://i.ibb.co/84ff7zV/Rectangle-24.png" alt="" />
         </div>
       </div>
     </div>
