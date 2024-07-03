@@ -2,7 +2,7 @@ import { FaArrowUpRightDots } from "react-icons/fa6";
 
 const Service = () => {
   return (
-    <div className="grid grid-cols-2 gap-10 p-10 bg-[#FFFFF5]">
+    <div className="grid grid-cols-2 gap-10 p-10 bg-[#FFFFF5] rounded-3xl">
       <div className="flex-1 space-y-5">
         <button className="btn rounded-3xl border btn-ghost border-black text-lg">
           Service
