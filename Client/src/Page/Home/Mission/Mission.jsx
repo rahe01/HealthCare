@@ -3,7 +3,7 @@ import { FaArrowUpRightDots } from "react-icons/fa6";
 const Mission = () => {
   return (
     <div>
-      <div className="flex justify-between my-10 lg:my-40">
+      <div className="flex justify-between my-10 lg:my-40 relative">
         {/* text */}
 
         <div className="flex-1 space-y-5">
@@ -28,8 +28,8 @@ const Mission = () => {
           </button>
         </div>
 
-        <div>
-            <h1>Our mission is simple</h1>
+        <div className=" bg-[#343268] w-80 h-48 rounded-3xl p-5 flex flex-col justify-center text-white absolute top-3/4 left-2/3 transform -translate-x-1/2 -translate-y-1/2">
+            <h1 className="font-medium text-2xl">Our mission is simple</h1>
             <p>To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
         </div>
 
