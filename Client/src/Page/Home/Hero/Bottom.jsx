@@ -6,7 +6,7 @@ const Bottom = () => {
       </h1>
 
       <div className="grid  grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5">
-        <div className="card  shadow-xl bg-[#FBFBFB]">
+        <div className="card  shadow-xl bg-[#FBFBFB] pb-6">
           <div className="card-body">
             <h2 className="card-title text-5xl font-semibold">90% </h2>
             <p>Patient satisfaction rate, reflecting our commitment.</p>
@@ -16,20 +16,21 @@ const Bottom = () => {
           </figure>
         </div>
         <div className="card  shadow-xl h-52 self-end bg-[#FFFFF5]">
-          <div className="card-body">
-            <h2 className="card-title text-5xl font-semibold">500+ </h2>
+          <div className="p-6">
+            <h2 className=" text-5xl font-semibold">500+ </h2>
             <p>Board-certified doctors</p>
           </div>
           <figure>
             <img
               src="../../../../public/contract (1) 1.png"
               alt="Certificate"
+              className="w-24 h-24"
             />
           </figure>
         </div>
 
         <div className="card  shadow-xl h-44 self-end bg-[#FBFBFB] ">
-          <div className="card-body">
+          <div className="p-6">
             <div className="flex gap-2 items-center">
               <h2 className="card-title text-5xl font-semibold">4.8</h2>
               <img
@@ -46,7 +47,7 @@ const Bottom = () => {
         </div>
 
         <div className="card shadow-xl h-52 self-end bg-[#FFFFF5]">
-          <div className="card-body">
+          <div className="p-6">
             <h2 className="card-title text-5xl font-semibold">$5000</h2>
             <p>Money spend for poor patient</p>
           </div>
